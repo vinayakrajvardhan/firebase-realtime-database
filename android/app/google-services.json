@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "45123284066",
+    "project_id": "fir-coding-monk",
+    "storage_bucket": "fir-coding-monk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45123284066:android:ad12ccfe511b7aeadb753b",
+        "android_client_info": {
+          "package_name": "com.example.firebase_coding_monk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45123284066-ngg0vsr4qcdfldug3343sbgfvsu6mbrv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_coding_monk",
+            "certificate_hash": "dc7eb5a0729fbde832d56dfda00ce278d774764d"
+          }
+        },
+        {
+          "client_id": "45123284066-1748uhndb2fdipe9aeict4lorkq6htpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyjzEtfL8omaz64D22KslqJWsPEui-8ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45123284066-1748uhndb2fdipe9aeict4lorkq6htpo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
